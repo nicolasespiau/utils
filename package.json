@@ -1,0 +1,26 @@
+{
+  "name": "@bonjourjohn/utils",
+  "version": "1.0.0",
+  "description": "Regroups a set of function that can be useful",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasespiau/utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "ESPIAU Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasespiau/utils/issues"
+  },
+  "homepage": "https://github.com/nicolasespiau/utils#readme",
+  "devDependencies": {
+    "mocha": "^5.0.4",
+    "unit.js": "^2.0.0"
+  }
+}
