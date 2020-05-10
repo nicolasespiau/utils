@@ -1,6 +1,6 @@
 {
   "name": "@bonjourjohn/utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Regroups a set of function that can be useful",
   "main": "index.js",
   "scripts": {
