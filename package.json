@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nicolasespiau/utils#readme",
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "unit.js": "^2.1.1"
   }
 }
